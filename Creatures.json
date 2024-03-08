@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Manatee",
+    "type": "Mammal",
+    "depth": 234,
+    "size": "Large",
+    "diet": "Herbivore",
+    "description": "Manatees are large, fully aquatic mammals also known as sea cows.",
+    "images": [
+      "https://imageone.com",
+      "https://image2.com"
+    ],
+    "video": {
+      "url": "https://video.com",
+      "description": "This YouTube video provides more information about dolphins."
+    },
+    "dimensions": {
+      "width": 120,
+      "height": 40
+    }
+  },
+  {
+    "name": "Manatee",
+    "type": "Mammal",
+    "depth": 234,
+    "size": "Large",
+    "diet": "Herbivore",
+    "description": "Manatees are large, fully aquatic mammals also known as sea cows.",
+    "images": [
+      "https://imageone.com",
+      "https://image2.com"
+    ],
+    "video": {
+      "url": "https://video.com",
+      "description": "This YouTube video provides more information about dolphins."
+    },
+    "dimensions": {
+      "width": 120,
+      "height": 40
+    }
+  },
+  {
+    "name": "Manatee",
+    "type": "Mammal",
+    "depth": 234,
+    "size": "Large",
+    "diet": "Herbivore",
+    "description": "Manatees are large, fully aquatic mammals also known as sea cows.",
+    "images": [
+      "https://imageone.com",
+      "https://image2.com"
+    ],
+    "video": null,
+    "dimensions": {
+      "width": 120,
+      "height": 40
+    }
+  }
+]
